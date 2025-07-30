@@ -55,10 +55,10 @@ This project allows user registration (Admin/Staff), product management, stock c
 ---
 
 ## Author
-Md. Khairul Anam Shopnil
-Ibnul Jobayer
-Kazi Adiba Rahman Adhora
-Mohammad Siyam Hossen
+Md. Khairul Anam Shopnil,
+ Ibnul Jobayer,
+ Kazi Adiba Rahman Adhora,
+ Mohammad Siyam Hossen
 
 ---
 
