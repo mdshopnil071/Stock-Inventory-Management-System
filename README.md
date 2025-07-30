@@ -42,8 +42,26 @@ This project allows user registration (Admin/Staff), product management, stock c
 ---
 
 ## How to Run
+1. Compile `Source_Code.c` using a C compiler:
+   ```
+   gcc Source_Code.c -o store
+   ```
+2. Run the executable:
+   ```
+   ./store
+   ```
+   (On Windows, use `store.exe`)
 
-1. **Compile the code** using a C compiler (e.g., `gcc`):
+---
 
-   ```bash
-   gcc main.c -o departmental_store
+## Author
+Md. Khairul Anam Shopnil
+Ibnul Jobayer
+Kazi Adiba Rahman Adhora
+Mohammad Siyam Hossen
+
+---
+
+## License
+This project is for educational purposes.
+   
